@@ -1,6 +1,6 @@
 # Goodbye
 
-###By Paige Tiedeman
+### By Paige Tiedeman
 #### A simple HTML format for saying goodbye in other languages.
 
 ## Technologies Used
